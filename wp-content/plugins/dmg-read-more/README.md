@@ -4,6 +4,10 @@ Add to plugins directory, install add DMG Read more to post
 
 ## WP-CLI function
 
+## NOTE:
+
+This is incomplete. Needs more work to get it running but I know I need to get this over to you
+
 Defaults to last 30 days
 `wp dmg-read-more search`
 
