@@ -1,0 +1,74 @@
+*.log
+.htaccess
+wp-config.php
+
+wp-content/index.php
+
+wp-content/themes/
+wp-content/languages/
+wp-content/upgrade/
+
+wp-content/plugins/akismet
+wp-content/plugins/hello.php
+wp-content/plugins/index.php
+
+license.txt
+readme.html
+sitemap.xml
+sitemap.xml.gz
+
+# Sass
+.sass-cache
+.sass-cache/*
+*.css.map
+*.sass.map
+*.scss.map
+
+# ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+# NPM, Bower, Vagrant, Docker etc...
+bower_components/
+node_modules/
+test/
+tests/
+.vagrant
+.bundle
+.idea/
+Movefile
+docs
+docker-compose.yml
+
+# OSX
+.DS_Store
+
+# Windows
+*.tmp
+Thumbs.db
+ehthumbs.db
+
+# Word temporary
+~$*.doc*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
